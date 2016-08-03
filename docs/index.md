@@ -1,1 +1,1 @@
-# Welcome Student Manager Documentation
+# Welcome to Student Manager Documentation
