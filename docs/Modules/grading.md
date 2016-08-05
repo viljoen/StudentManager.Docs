@@ -7,7 +7,7 @@
 -	Add your marks
 -	Save
 
-*Note:* Only publish your marks when they are ready for public viewing.
+**Note: Only publish your marks when they are ready for public viewing**
 
 To set up the rules for how your marks should be calculated, go to Settings in the More tab and complete your set up on the Grade Symbol Range and Grade Settings options. 
 

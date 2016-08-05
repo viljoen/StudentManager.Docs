@@ -1,6 +1,7 @@
 ## **Creating or Moving Logs**
 
-To edit the log details, please ensure that you have been added as an administrator first. To do this, please go to:
+### To edit the log details, please ensure that you have been added as an administrator first. To do this, please go to:
+
 -	The More button on the Main Menu Bar
 -	Scroll down and click on the Logs link
 -	Select your Campus
@@ -11,7 +12,8 @@ To edit the log details, please ensure that you have been added as an administra
 -	Populate the necessary fields and save
 
 **Moving logs** 
--	Select the More tab from the main menu bar
+
+-	Select the More tab from the Main Menu bar
 -	Scroll down and click on the Logs link
 -	Select your campus
 -	Select or search for the log by ticking the box on the left hand side or typing in your log details into the search box 
@@ -19,12 +21,14 @@ To edit the log details, please ensure that you have been added as an administra
 -	Select your campus from the drop down list and Save
 
 **Creating Logs**
+
 -	Select the More tab from the Main Menu Bar
 -	Scroll down and click on the Logs link
 -	Select your Campus
 -	Click on the Create link on the right-hand side and create your log
 
 **Capturing and Editing Logs**
+
 -	Select the More tab from the Main Menu Bar
 -	Scroll down and click on the logs link
 -	Select your campus

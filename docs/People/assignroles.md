@@ -1,7 +1,7 @@
- ## **Assigning Roles**
+## **Assigning Roles**
 
 
-*Log in and select the People tab from the Main Menu Bar*
+### Log in and select the People tab from the Main Menu Bar
 
 
 - Select staff and type in either a first name, surname or staff number and  

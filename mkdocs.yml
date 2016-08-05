@@ -28,6 +28,9 @@ pages:
     - Online Tests: Modules/onlinetests.md
     - Assign Roles to Assessor or Lecturer: Modules/assignrolestoassessororlecturer.md
     - Grade Assessments: Modules/grading.md
+    - Add Learning Material: Modules/addinglearningmaterial.md
+    - Merging Duplicate Modules: Modules/mergingduplicatemodules.md
+    - Setting Up Assessments: Modules/settingupassessments.md
 
 - Reports:
     - Print a Lecture Time Table: Reports/printalecturetimetable.md
