@@ -1,4 +1,7 @@
-## **Setting up Assessments (Assignments, Tests, Exams, Practicals)**
+## **Setting up Assessments**
+
+### Assignments, Tests, Exams and Practicals
+
 -	Select Modules from the Main Menu Bar
 -	Select Campus 
 -	Select Year
