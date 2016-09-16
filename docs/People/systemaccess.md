@@ -4,7 +4,7 @@
 -	Make sure the correct e-mail address is provided
 -	Ensure you log on with your own user details
 
-**Trouble Shooting**
+## **Trouble Shooting**
 
 Once you have clicked onto the link and logged into the system, you mustn’t go back to the link to access Student Manager, 
 you need to go to the web site www.studentmanager.co.za to login. 

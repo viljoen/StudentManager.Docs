@@ -6,7 +6,7 @@
 -	Untick Auto Generate
 -	Save
 
-**To manually change a student number:**
+## **To Manually Change a Student Number:**
 
 -	Select People from the Main Menu Bar
 -	Search for your student and view

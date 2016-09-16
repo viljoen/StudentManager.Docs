@@ -1,4 +1,6 @@
 ## **Setting up Workflow Steps**
+
+This feature allows you to design your marketing plan according to the actions and targets your sales team are required to follow from first contact with a lead to the conversion to a student. 
 -	Select Settings from the Main Menu Bar
 -	Select Leads from the left-hand side drop down list
 -	Select Add on the top right-hand side
