@@ -11,7 +11,7 @@
 -	Select the Add an administrator link on the right-hand side
 -	Populate the necessary fields and save
 
-**Moving logs** 
+## **Moving logs**  
 
 -	Select the More tab from the Main Menu bar
 -	Scroll down and click on the Logs link
@@ -20,14 +20,14 @@
 -	A “Make Changes” link will appear on the right-hand side, click this link and select the Move button
 -	Select your campus from the drop down list and Save
 
-**Creating Logs**
+## **Creating Logs**
 
 -	Select the More tab from the Main Menu Bar
 -	Scroll down and click on the Logs link
 -	Select your Campus
 -	Click on the Create link on the right-hand side and create your log
 
-**Capturing and Editing Logs**
+## **Capturing and Editing Logs**
 
 -	Select the More tab from the Main Menu Bar
 -	Scroll down and click on the logs link

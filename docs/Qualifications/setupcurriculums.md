@@ -1,5 +1,7 @@
 ## **How to set up your Curriculum**
 
+Your Curriculum needs to mirror your institutions prospectus at a specific point in time. 
+
 **1.	Add the following information first** 
 -	Modules
 -	Qualifications

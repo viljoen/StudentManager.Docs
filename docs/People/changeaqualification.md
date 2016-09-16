@@ -1,6 +1,6 @@
 ## **Change a Qualification**
 
-### Open up the Students profile page by doing a people search
+### Open up the Students profile page by doing a people search, then
 
 -	Select Student from the left-hand list
 -   Select Coursework 
