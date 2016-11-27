@@ -8,13 +8,13 @@
 3. Create a specific user
 4. Check user capability 
 
-        a. Users-permissions-define roles
+        a. Users > Permissions > Define Roles > Add a new role
         b. Use Role or archetype: Manager
         c. Continue
         d. Short name: studentmanagerwebaccess
         e. Custom full name: Student Manager Web Access
         f. Allow Role assignments - Select all
-        g. capability
+        g. Capability
 
             i. webservice/rest:use
             ii. moodle/course:create
@@ -28,7 +28,9 @@
             x.   enrol/manual:enrol
 
         h. Create this Role:
-           - Users – Permissions – Assign system roles
+           
+        i. Users > Permissions > Assign system roles
+           - Select role you created earlier
            - Select the user you created earlier
            - Add
 
@@ -57,7 +59,7 @@
 - core_course_delete_courses
 - core_group_delete_groups
 
-7. Select a Specific User – Authorised Users
+7. Select a Specific User > Authorised Users
 
     a. Select the user you created earlier
     
