@@ -1,6 +1,6 @@
- ## **Moodle and Student Manager Integration**
+## **Moodle and Student Manager Integration**
 
- ## In Moodle:
+## In Moodle
 /admin/search.php?query=webservicesoverview
 
 1. Enable web services - Yes
@@ -75,7 +75,7 @@
 
     d. Save token
 
-## **In Student Manager**
+## In Student Manager
 
 Go to: 
 
@@ -95,7 +95,7 @@ The number after roleid is the number you want to put for each option below
 
 This plugin allows Moodle users to log in with their Student Manager details. You can do this by:
 
-1. Downloading the following zip file
+1. Downloading the following folder and zip the student manager folder - https://github.com/AgileSystemsTechnology/StudentManager.Moodle
 2. Site administration – Plugins – Install plugins
 3. Add new file – select zip
 4. Continue
