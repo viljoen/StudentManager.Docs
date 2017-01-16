@@ -60,6 +60,9 @@ pages:
     - Creating an Inbox: Communication/settingsupaninbox.md
     - Sending an SMS: Communication/sendingansms.md
 
+- Moodle:
+    - Moodle Integration: Moodle/moodleintegration.md
+
 - More:
     - Creating and Moving Logs: More/creatingormovinglogs.md
     - Grade and Symbol Settings: More/gradeandsymbolsettings.md
@@ -69,5 +72,6 @@ pages:
     - Send Bulk Activation Links: More/sendbulkactivationlinks.md
     - Request Details Update in Bulk: More/requestadetailsupdateinbulk.md
     - Student Fees: More/studentfees.md
+
     
 theme: readthedocs
