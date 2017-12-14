@@ -74,6 +74,7 @@ pages:
     - Send Bulk Activation Links: More/sendbulkactivationlinks.md
     - Request Details Update in Bulk: More/requestadetailsupdateinbulk.md
     - Student Fees: More/studentfees.md
-
+    
+- What's New: /WhatsNew.md
     
 theme: readthedocs
