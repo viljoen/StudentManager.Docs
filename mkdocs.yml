@@ -35,11 +35,13 @@ pages:
 
 - Qualifications:
     - Add a Qualification: Qualifications/addaqualification.md
+    - Setup Qualification Intakes: Qualifications/campusqualificationintake.md
+    - Create Intakes: Qualifications/creatingintakes.md 
     - Setup Curriculum: Qualifications/setupcurriculums.md
     - Changing Credits: Qualifications/changingcredits.md   
     - Enrolling a Student: Qualifications/enrollingastudent.md
-    - Setup Qualification Intakes: Qualifications/campusqualificationintake.md
-    - Create Intakes: Qualifications/creatingintakes.md 
+    
+    
 
 - Reports:
     - Print a Lecture Time Table: Reports/printalecturetimetable.md
