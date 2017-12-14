@@ -9,19 +9,23 @@ This feature enables the following:
 
 **Tip!** Before the qualification option can be viewed by the learner, the qualification intake must be set up. You can do this by:
 
--	Selecting Qualifications from the Main Menu bar:
-![alt text](Paste URL here URL here "Selecting Qualifications")
+-	Selecting Qualifications from the Main Menu bar:  
+![alt text](https://content.screencast.com/users/support5383/folders/Jing/media/53e5a240-dfd6-44ee-9de2-a3702a7c929d/2017-12-14_1443.png "Description")
 
--	Select the relevant view in line with the relevant qualification:
-![alt text](Paste URL here URL here "Selecting a single qualification")
+-	Select the relevant view in line with the relevant qualification:  
+![alt text](https://content.screencast.com/users/support5383/folders/Jing/media/53e5a240-dfd6-44ee-9de2-a3702a7c929d/2017-12-14_1443.png "Description")
 
--	Select the "Intakes and Curriculum" tab:
-![alt text](Paste URL here URL here "Selecting qualification")
+-	Select the "Intakes and Curriculum" tab:  
+![alt text](https://content.screencast.com/users/support5383/folders/Jing/media/53e5a240-dfd6-44ee-9de2-a3702a7c929d/2017-12-14_1443.png "Description")
 
--	Select the campus for the particular intake
--	Click on the Add link on the right-hand-side
--	Add a description e.g. 2017 intake
--	Add your open and closing dates for the intake
+-	Select the campus for the particular intake  
+
+-	Click on the Add link on the right-hand-side  
+
+-	Add a description e.g. 2017 intake  
+
+-	Add your open and closing dates for the intake  
+
 
 **Tip!** Your open and closing date range should precede the intake period. E.g., you would set your open date for 1 October 2016 and closing date for the 30 November 2016 for the 2017 intake period. 
 
