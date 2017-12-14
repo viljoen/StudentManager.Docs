@@ -1,6 +1,7 @@
 ## **Campus Qualification Intake**
 
-This feature enable the following:
+This feature enables the following:
+
 ..1. Allows learners to select the qualification they are interested in during the application process
 ..2. Allows for the course work page to be built up per learner
 
