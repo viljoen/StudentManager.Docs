@@ -1,12 +1,20 @@
 ## **Campus Qualification Intake**
 
-This feature allows students to select the qualification they are interested in during the application phase. 
+This feature enable the following:
+..1. Allows learners to select the qualification they are interested in during the application process
+..2. Allows for the course work page to be built up per learner
 
-**Tip!** Before the qualification option can be viewed by the student, the qualification intake must be set up. You can do this by:
+**Tip!** Before the qualification option can be viewed by the learner, the qualification intake must be set up. You can do this by:
 
--	Selecting Qualifications from the Main Menu bar
--	Select the relevant qualification and View
--	Select Intake 
+-	Selecting Qualifications from the Main Menu bar: 
+![alt text](Paste URL here URL here "Selecting Qualifications")
+
+-	Select the relevant view in line with the relevant qualification: 
+![alt text](Paste URL here URL here "Selecting a single qualification")
+
+-	Select the "Intakes and Curriculum" tab:
+![alt text](Paste URL here URL here "Selecting qualification")
+
 -	Select the campus for the particular intake
 -	Click on the Add link on the right-hand-side
 -	Add a description e.g. 2017 intake
