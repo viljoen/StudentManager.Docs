@@ -2,9 +2,8 @@
 
 This feature enables the following:
 
-..1. Allows learners to select the qualification they are interested in during the application process
-
-..2. Allows for the course work page to be built up per learner
+..*1. Allows learners to select the qualification they are interested in during the application process
+..*2. Allows for the course work page to be built up per learner
 
 **Tip!** Before the qualification option can be viewed by the learner, the qualification intake must be set up. You can do this by:
 
