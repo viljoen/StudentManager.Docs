@@ -8,10 +8,10 @@ This feature enables the following:
 
 **Tip!** Before the qualification option can be viewed by the learner, the qualification intake must be set up. You can do this by:
 
--	Selecting Qualifications from the Main Menu bar: 
+-	Selecting Qualifications from the Main Menu bar:
 ![alt text](Paste URL here URL here "Selecting Qualifications")
 
--	Select the relevant view in line with the relevant qualification: 
+-	Select the relevant view in line with the relevant qualification:
 ![alt text](Paste URL here URL here "Selecting a single qualification")
 
 -	Select the "Intakes and Curriculum" tab:
