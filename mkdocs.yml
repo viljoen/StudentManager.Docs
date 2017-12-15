@@ -73,5 +73,6 @@ pages:
     - Request Details Update in Bulk: More/requestadetailsupdateinbulk.md
     - Student Fees: More/studentfees.md
 
+- WhatsNew: /WhatsNew
     
 theme: readthedocs
