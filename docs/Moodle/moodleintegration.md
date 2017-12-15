@@ -11,6 +11,7 @@
         a. Users > Permissions > Define Roles > Add a new role
         b. Use Role or archetype: Manager
         c. Continue
+        dd.
         d. Short name: studentmanagerwebaccess
         e. Custom full name: Student Manager Web Access
         f. Allow Role assignments - Select all
